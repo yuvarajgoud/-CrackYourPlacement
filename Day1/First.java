@@ -1,4 +1,5 @@
-class Solution {
+package Day1;
+public class First {
   public int findDuplicate(int[] nums) {
       int i = 0;
       int n = nums.length;
